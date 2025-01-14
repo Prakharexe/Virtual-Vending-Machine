@@ -1,0 +1,4 @@
+3
+CityA 15
+CityB 10
+CityC 20
